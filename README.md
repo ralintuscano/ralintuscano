@@ -21,7 +21,7 @@
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
 
 <br />
-
+<br />
 ---
 
 ### Connect with me:
@@ -35,5 +35,5 @@
 ---
 
 [twitter]: https://twitter.com/RalinTuscano
-[instagram]: https://instagram.com/ralintuscan0_16
+[instagram]: https://instagram.com/ralin_tuscan016
 [linkedin]: https://linkedin.com/in/ralintuscano
