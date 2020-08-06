@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer, Blockchain Enthusiast!
 
 - 🔭 I’m currently working on my portfolio website!
-- 🌱 I’m currently learning Blockchain Technology 🤣
+- 🌱 I’m currently learning Blockchain Technology 
   <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
   <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
