@@ -1,6 +1,6 @@
 ### Hi there, I'm Ralin 👋
 
-## I'm a Full Stack Developer, Blockchain Enthusiast!
+## I'm a Full Stack Developer!
 
 <!-- -- 🔭 I’m currently working on my portfolio website! -->
 <!-- -- 🌱 I’m currently learning Blockchain Technology -->
