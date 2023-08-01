@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/ralintuscano/ralintuscano/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://raw.githubusercontent.com/ralintuscano/ralintuscano/master/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
       <h2><strong>Hi there 👋, I'm Ralin Tuscano!</strong></h2>
