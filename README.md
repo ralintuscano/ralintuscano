@@ -16,13 +16,13 @@
             <strong>
                  Full-stack Engineer, Problem Solver, and Open-Source Enthusiast.<br><br>
                 2+ years professional experience as software developer. I specialize in React, Java (Spring Microservices) and Distributed Systems. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, and Design Patterns.<br><br>
-                I am passionate about learning Security Practices, Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
+                I am passionate about learning Security Practices, Back-End Technologies, Web 3, Blockchain, Linux, Cloud Computing, and DevOps.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: </a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🌱 <b>I’m currently learning</b>: Scaling Systems and Optimising frontend app performance</li>
+            <li>🎯 <b>I’m currently focusing on</b>: Memory Leaks </a>, ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="">LINK TO MY RESUME</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ralintuscano/ralintuscano/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
