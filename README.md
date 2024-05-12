@@ -16,7 +16,7 @@
             <strong>
                  Full-stack Engineer, Problem Solver, and Open-Source Enthusiast.<br><br>
                 2+ years professional experience as software developer. I specialize in React, Java (Spring Microservices) and Distributed Systems. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, and Design Patterns.<br><br>
-                I am passionate about learning Security Practices, Back-End Technologies, Web 3, Blockchain, Linux, Cloud Computing, and DevOps.<br><br>
+                I am passionate about learning how to build reselient and scalable Back-End systems.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
